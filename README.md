@@ -6,6 +6,8 @@
 
 This LabVIEW SEQ (Single Element Queued) variable storage provides an easy way to construct a __by referenced__ LabVIEW variable for local or global accessing. It uses _Variant_ as variable setting and accessing data type to fit most commonly usages.
 
+![example](images/example-BD.png)
+
 Features:
 
 * A __by reference__ variable storage
